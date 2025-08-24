@@ -307,7 +307,7 @@ function App() {
               <div className="bg-royal-blue text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Users size={32} />
               </div>
-              <h3 className="text-3xl font-bold text-royal-blue mb-2">500+</h3>
+              <h3 className="text-3xl font-bold text-royal-blue mb-2">2500+</h3>
               <p className="text-gray-600">Happy Students</p>
             </div>
             <div className="text-center">
@@ -321,7 +321,7 @@ function App() {
               <div className="bg-royal-blue text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Award size={32} />
               </div>
-              <h3 className="text-3xl font-bold text-royal-blue mb-2">15+</h3>
+              <h3 className="text-3xl font-bold text-royal-blue mb-2">25+</h3>
               <p className="text-gray-600">Years Experience</p>
             </div>
             <div className="text-center">
@@ -822,7 +822,7 @@ function App() {
                       message
                     )}`;
 
-                    // Redirect to WhatsApp
+                    // Redirect to WhatsA
                     window.open(whatsappUrl, "_blank");
                   }}
                   className="space-y-6"
