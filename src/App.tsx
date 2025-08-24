@@ -83,7 +83,7 @@ function App() {
             <div className="flex items-center space-x-4">
               <div className="w-16 h-16 rounded-full flex items-center justify-center overflow-hidden">
                 <img
-                  src="/public/images/smsbps logo.jpeg" // <-- Put your logo in public/images/
+                  src="/images/svglogo.svg" // <-- Put your logo in public/images/
                   alt="My Logo"
                   className="w-full h-full object-cover"
                 />
